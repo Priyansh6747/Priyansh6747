@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Priyansh6747
-- 👀 I’m interested in Game Dev,Web Dev
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on games based on Unity and unreal engine
+- 👀 I’m interested in Game Dev and Web Dev
 - 📫 How to reach me ->pstanwar6747@gmail.com
 
 ## Stats
