@@ -21,3 +21,4 @@
     </td>
   </tr>
 </table>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anant5441&theme=highcontrast" alt="GitHub Streak" /></a><p align="right"> <img src="https://komarev.com/ghpvc/?username=anant5441&label=Profile%20views&color=blue&style=flat" alt="Priyansh6747" /> </p>
