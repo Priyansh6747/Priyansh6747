@@ -28,8 +28,8 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left" >Languages and Tools:</h3>
+<p align="left" style="background-color: rgba(255,255,255,0.25)">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" />
   </a>
