@@ -6,7 +6,7 @@
   
 - 📫 How to reach me ->pstanwar6747@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyansh6747" alt="Priyansh6747" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyansh6747&theme=discord" alt="Priyansh6747" /></a> </p>
 
 ## Stats
 
