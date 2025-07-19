@@ -1,10 +1,38 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyansh6747&label=Profile%20views&color=0e75b6&style=flat" alt="Priyansh6747" /> </p>
 
-- 👋 Hi, I'm @Priyansh6747
+# 👋 Yo, I'm @Priyansh6747  
+Full-stack dev + game tech nerd obsessed with performance, low-level control, and building cool sh*t that actually runs smooth.
 
-- 👀 I'm interested in Game Dev and Web Dev
-  
-- 📫 How to reach me ->pstanwar6747@gmail.com
+---
+
+## 🛠️ What I Do
+
+### 🎮 Game Development
+- 🔹 Unreal Engine 5 (C++ & Blueprints)
+- 🔹 Unity (C#)
+- 🔹 Systems-level control & performance optimization
+
+### 🌐 Web Development
+- 🔸 React.js + WebAssembly (Rust-Wasm integration)
+- 🔸 Building clean UIs with brutal speed
+- 🔸 Full-stack experience from frontend to systems
+
+### ⚙️ Systems Programming
+- ⚡ Rust (Wasm, performance, memory safety)
+- ⚡ C++ (engine-level power)
+- ⚡ WebAssembly (cross-platform native performance)
+
+
+---
+
+## 📫 Let's Talk
+
+**Email**: [pstanwar6747@gmail.com](mailto:pstanwar6747@gmail.com)
+
+---
+
+> “Shipping performant apps, from the game loop to the DOM.”
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyansh6747&theme=discord" alt="Priyansh6747" /></a> </p>
 
