@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyansh6747&label=Profile%20views&color=0e75b6&style=flat" alt="Priyansh6747" /> </p>
 
-# 👋 Yo, I'm @Priyansh6747  
-Full-stack dev + game tech nerd obsessed with performance, low-level control, and building cool sh*t that actually runs smooth.
+# 👋 Yo, I'm Priyansh
+Full-stack dev + game tech nerd obsessed with performance, low-level control, and building cool stuff that actually runs smooth.
 
 ---
 
